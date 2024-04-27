@@ -1,2 +1,3 @@
-public class Output {
+public class Output extends Processing{
+
 }
