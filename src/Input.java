@@ -15,7 +15,6 @@ public class Input {
             System.out.println("Enter in the number: ");
             int nextPush = scanner.nextInt();
             stack.push(nextPush);
-            System.out.println(stack.peek());
         }
     return stack;
     }
