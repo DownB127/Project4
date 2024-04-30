@@ -6,8 +6,8 @@ public class Main {
         Stack<Integer> stack = new Stack<>();
         stack = input.stackSetup();
 
-        Processing processing = new Processing();
-        processing.average(stack);
+        Output output = new Output();
+        output.printAverage(stack);
 
 
     }
